@@ -118,10 +118,10 @@ local currency = {
 	2245,	-- Flightstones
 	2594,	-- Paracasual Flakes
 	2650,	-- Emerald Dewdrop
-	2706,	-- Whelping's Dreaming Crest
-	2707,	-- Drake's Dreaming Crest
-	2708,	-- Wyrm's Dreaming Crest
-	2709,	-- Aspect's Dreaming Crest
+	2806,	-- Whelping's Awakened Crest
+	2807,	-- Drake's Awakened Crest
+	2810,	-- Wyrm's Awakened Crest
+	2812,	-- Aspect's Awakened Crest
 	2657,	-- Mysterious Fragment
 }
 
